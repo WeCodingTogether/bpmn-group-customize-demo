@@ -1,0 +1,13 @@
+{
+    "name": "SUSIE",
+    "uri": "http://susie/schema/bpmn",
+    "prefix": "susie",
+    "types": [
+        {
+            "name":"LayoutGroup",
+            "superClass": [
+                "bpmn:Group"
+            ]
+        }
+    ]
+}

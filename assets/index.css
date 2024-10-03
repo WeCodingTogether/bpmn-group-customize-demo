@@ -1,0 +1,13 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+#canvas, 
+#properties {
+    height: 800px;
+    width: 800px;
+}
